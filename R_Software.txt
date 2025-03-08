@@ -1,0 +1,22 @@
+1. Desktop Requirement: 16 GB RAM with 100 GB HD. 64 bit OS. Tnternet connection enabled
+1.1 Internet access to download few open soource libraries mentioned in step 4
+
+2. Download and Install R from https://cran.r-project.org/(Install any one - 32 or 64 bit, not both)
+2.1 Download and Install R Studio desktop (free) from https://www.rstudio.com/
+
+3. R Tool (take latest one) from link https://cran.r-project.org/bin/windows/Rtools
+
+4. Run script Libraries.R or "Libraries.txt" on R prompt. If anytime question is asked then select "Yes"
+
+5. Install MS XL (latest version or 2016 version)
+
+6. Download Data files from locations
+
+https://community.qlik.com/servlet/JiveServlet/previewBody/18789-102-1-25268/AirPassengers.csv
+
+# Remove the first column as index after download
+https://github.com/vincentarelbundock/Rdatasets/blob/master/csv/MASS/Boston.csv
+
+# Remove the first column as index after download
+https://github.com/vincentarelbundock/Rdatasets/blob/master/csv/datasets/iris.csv
+
